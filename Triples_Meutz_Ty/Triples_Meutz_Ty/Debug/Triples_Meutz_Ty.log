@@ -1,0 +1,5 @@
+﻿  Triples_Meutz_Ty.cpp
+f:\c\triples_meutz_ty\triples_meutz_ty\triples_meutz_ty.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\c\triples_meutz_ty\triples_meutz_ty\triples_meutz_ty.cpp(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+f:\c\triples_meutz_ty\triples_meutz_ty\triples_meutz_ty.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Triples_Meutz_Ty.vcxproj -> F:\C\Triples_Meutz_Ty\Debug\Triples_Meutz_Ty.exe
